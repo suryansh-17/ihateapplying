@@ -4,7 +4,6 @@
 
 **An open-source, multi-agent AI system that discovers hidden tech openings, screens for fit, enriches verified founder/recruiter emails, compiles tailored Typst PDF resumes, and either sends live emails autonomously or stages reviewable Gmail drafts—all running 100% on free-tier APIs.**
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![Cost: 100% Free Tier](https://img.shields.io/badge/Cost-100%25_Free_Tier-brightgreen.svg)](#-100-free-tier-stack)
 [![Outreach Mode](https://img.shields.io/badge/Dispatch-Direct_Send_%7C_Gmail_Drafts-red.svg)](#-dual-dispatch-modes-autopilot-or-draft-review)
@@ -286,7 +285,3 @@ Feel free to check the [issues page](https://github.com/abhishek09827/ihateapply
 If this project helps you in your job search or saves you hours of manual applications, please give it a ⭐ on GitHub!
 
 ---
-
-## ⚖️ License
-
-Distributed under the MIT License. See [`LICENSE`](file:///home/abhishek/projects/ai-outreach-engine-oss/LICENSE) for details.
